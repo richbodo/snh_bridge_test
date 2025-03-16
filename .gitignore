@@ -1,0 +1,38 @@
+# Python virtual environment
+snh_env/
+venv/
+env/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Local configuration
+.snh_bridge/
+*.ini
+
+# Test PDFs and data
+test_batch_upload/
+*.pdf
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.* 
